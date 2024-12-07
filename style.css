@@ -1,0 +1,78 @@
+#Welcome {
+font-size: 50px;
+color: #AD1A3D;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 25px;
+font-style: italic;
+font-family:fantasy;
+margin-bottom: 0;
+}
+#subWelcome {
+color:#3943B7 ;
+text-align: center;
+
+font-family:fantasy;
+margin-top: 0;
+}
+footer{
+text-align: center;  
+padding-top: 250px; 
+padding-bottom: 0; 
+margin-top: 50px;
+}
+img{
+background-color:#F8F4A6;
+height: 150; 
+width: 100;   
+}
+body{
+margin:0;
+padding: 0;
+background-color:#F8F4A6;
+}
+#intro{
+font-family:fantasy;
+font-size: 25px;
+text-align:justify;
+font-weight: bold;
+padding: 25px;
+text-align: center;
+color:#3943B7 ;
+}
+.menu {
+font-family:fantasy;
+display: grid;
+grid-template-columns: repeat(3, 2fr);
+padding: 10px;
+text-align: center; 
+border-radius: 10px;  
+}
+.tenMinutes{
+text-align: center;
+
+
+}
+h3{
+padding-bottom: 0;
+margin-bottom: 0;   
+}
+img{
+padding-top: 0;
+margin-top: 0;      
+}
+.bear{
+height: 700;
+width: 600;
+margin: auto;
+display: block;
+border-radius: 50%;
+
+}
+a:link {
+color: rgba(218, 113, 27, 0.905);   
+text-decoration: none;
+font-family:Monospace;
+font-size: 15px;
+font-weight: bold;
+}
